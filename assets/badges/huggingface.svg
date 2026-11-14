@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 36" role="img" aria-label="hugging face link">
+<title>hugging face link</title>
+<style>
+text{font-family:ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Menlo, Consolas, &quot;Liberation Mono&quot;, &quot;DejaVu Sans Mono&quot;, monospace;font-size:13px;font-variant-ligatures:none}
+.halo{transform-box:fill-box;transform-origin:center;animation:pulse 2.4s ease-in-out infinite}
+@keyframes pulse{0%,100%{transform:scale(1);opacity:.55}50%{transform:scale(2.3);opacity:0}}
+@media (prefers-reduced-motion: reduce){.halo{animation:none;opacity:0}}
+</style>
+<rect x="0.5" y="0.5" width="143" height="35" rx="9.5" fill="#0b0b0c" stroke="#2a2a2e"/>
+<g transform="translate(14 11)" fill="none" stroke="#98846b" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="7" cy="7" r="6"/><path d="M4.4 8.2 Q7 11 9.6 8.2"/><circle cx="5" cy="5.5" r="0.5"/><circle cx="9" cy="5.5" r="0.5"/></g>
+<text x="36" y="22.5" fill="#eee0ba" textLength="93.6" lengthAdjust="spacing">hugging face</text>
+
+</svg>

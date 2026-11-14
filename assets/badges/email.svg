@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 89 36" role="img" aria-label="email link">
+<title>email link</title>
+<style>
+text{font-family:ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Menlo, Consolas, &quot;Liberation Mono&quot;, &quot;DejaVu Sans Mono&quot;, monospace;font-size:13px;font-variant-ligatures:none}
+.halo{transform-box:fill-box;transform-origin:center;animation:pulse 2.4s ease-in-out infinite}
+@keyframes pulse{0%,100%{transform:scale(1);opacity:.55}50%{transform:scale(2.3);opacity:0}}
+@media (prefers-reduced-motion: reduce){.halo{animation:none;opacity:0}}
+</style>
+<rect x="0.5" y="0.5" width="88" height="35" rx="9.5" fill="#0b0b0c" stroke="#2a2a2e"/>
+<g transform="translate(14 11)" fill="none" stroke="#98846b" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="2.5" width="12" height="9" rx="1.6"/><path d="M1.6 3.7 L7 8 L12.4 3.7"/></g>
+<text x="36" y="22.5" fill="#eee0ba" textLength="39" lengthAdjust="spacing">email</text>
+
+</svg>

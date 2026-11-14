@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 190" role="img" aria-label="AgentGuard: A reliability layer for AI coding agents. Its core runs no LLM.">
+<title>AgentGuard: A reliability layer for AI coding agents. Its core runs no LLM.</title>
+<defs><clipPath id="shc"><path d="M0,-29 L22,-21 V2 C22,16 10,25 0,31 C-10,25 -22,16 -22,2 V-21Z"/></clipPath></defs>
+<style>
+text{font-family:ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace;font-variant-ligatures:none}
+.s{fill:none;stroke:#eee0ba;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.d{stroke:#5e5548}.d2{stroke:#98846b}.tn{stroke:#98846b}.r{stroke:#f00009}
+.f{fill:#eee0ba;stroke:none}.f.r2{fill:#f00009}
+.nd{fill:#151517}
+.ix{font-size:11px;font-weight:700;fill:#ff3b44}
+.nm{font-size:22px;font-weight:700;fill:#eee0ba}
+.tg{font-size:12.5px;fill:#98846b}
+.chip{fill:none;stroke:#2a2a2e;stroke-width:1}
+.ct{font-size:10.5px;fill:#98846b;text-anchor:middle}
+.scan{transform:translateY(2px);animation:sweep 3.4s ease-in-out infinite;animation-delay:-1.9s}
+@keyframes sweep{0%{transform:translateY(-32px);opacity:0}12%{opacity:1}84%{opacity:1}100%{transform:translateY(34px);opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none !important}}
+</style>
+<rect x=".5" y=".5" width="411" height="189" rx="13.5" fill="#0b0b0c" stroke="#2a2a2e"/>
+<text class="ix" x="22" y="34">03</text>
+<line x1="44" y1="30.5" x2="78" y2="30.5" stroke="#5e5548" stroke-width="1"/>
+<text class="nm" x="22" y="64">AgentGuard</text>
+<text class="tg" x="22" y="89">A reliability layer for AI coding</text>
+<text class="tg" x="22" y="105">agents. Its core runs no LLM.</text>
+<rect class="chip" x="22.5" y="144.5" width="56" height="21" rx="11"/><text class="ct" x="50.5" y="159">Python</text>
+<rect class="chip" x="87.5" y="144.5" width="63" height="21" rx="11"/><text class="ct" x="119.0" y="159">FastAPI</text>
+<rect class="chip" x="159.5" y="144.5" width="50" height="21" rx="11"/><text class="ct" x="184.5" y="159">QLoRA</text>
+<circle cx="354" cy="84" r="46" fill="#151517"/>
+<g transform="translate(354,84)"><path class="s" d="M0,-29 L22,-21 V2 C22,16 10,25 0,31 C-10,25 -22,16 -22,2 V-21Z"/>
+<path class="s d" d="M0,-29 L22,-21 V2 C22,16 10,25 0,31 C-10,25 -22,16 -22,2 V-21Z" transform="scale(.7)" vector-effect="non-scaling-stroke"/>
+<g clip-path="url(#shc)"><g class="scan">
+<rect x="-24" y="-12" width="48" height="12" fill="#f00009" opacity=".16"/>
+<line class="s r" x1="-24" y1="0" x2="24" y2="0"/>
+</g></g></g>
+<path d="M381,160 L391,150 M384,150 H391 V157" fill="none" stroke="#5e5548" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

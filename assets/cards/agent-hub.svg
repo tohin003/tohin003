@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 190" role="img" aria-label="Agent Hub: Every AI coding agent on your Mac, in your pocket.">
+<title>Agent Hub: Every AI coding agent on your Mac, in your pocket.</title>
+<defs></defs>
+<style>
+text{font-family:ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace;font-variant-ligatures:none}
+.s{fill:none;stroke:#eee0ba;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.d{stroke:#5e5548}.d2{stroke:#98846b}.tn{stroke:#98846b}.r{stroke:#f00009}
+.f{fill:#eee0ba;stroke:none}.f.r2{fill:#f00009}
+.nd{fill:#151517}
+.ix{font-size:11px;font-weight:700;fill:#ff3b44}
+.nm{font-size:22px;font-weight:700;fill:#eee0ba}
+.tg{font-size:12.5px;fill:#98846b}
+.chip{fill:none;stroke:#2a2a2e;stroke-width:1}
+.ct{font-size:10.5px;fill:#98846b;text-anchor:middle}
+.pl0{stroke-dashoffset:-30;animation:pulse 2.6s linear infinite;animation-delay:-0.88s}
+.pl1{stroke-dashoffset:-62;animation:pulse 2.6s linear infinite;animation-delay:-1.67s}
+.pl2{stroke-dashoffset:-18;animation:pulse 2.6s linear infinite;animation-delay:-0.59s}
+.pl3{stroke-dashoffset:-78;animation:pulse 2.6s linear infinite;animation-delay:-2.06s}
+.pl{fill:none;stroke:#f00009;stroke-width:2.4;stroke-linecap:round;stroke-dasharray:6 200}
+@keyframes pulse{from{stroke-dashoffset:6}to{stroke-dashoffset:-100}}
+@media (prefers-reduced-motion:reduce){*{animation:none !important}}
+</style>
+<rect x=".5" y=".5" width="411" height="189" rx="13.5" fill="#0b0b0c" stroke="#2a2a2e"/>
+<text class="ix" x="22" y="34">05</text>
+<line x1="44" y1="30.5" x2="78" y2="30.5" stroke="#5e5548" stroke-width="1"/>
+<text class="nm" x="22" y="64">Agent Hub</text>
+<text class="tg" x="22" y="89">Every AI coding agent on</text>
+<text class="tg" x="22" y="105">your Mac, in your pocket.</text>
+<rect class="chip" x="22.5" y="144.5" width="50" height="21" rx="11"/><text class="ct" x="47.5" y="159">Swift</text>
+<rect class="chip" x="81.5" y="144.5" width="63" height="21" rx="11"/><text class="ct" x="113.0" y="159">SwiftUI</text>
+<rect class="chip" x="153.5" y="144.5" width="76" height="21" rx="11"/><text class="ct" x="191.5" y="159">Tailscale</text>
+<circle cx="354" cy="84" r="46" fill="#151517"/>
+<g transform="translate(354,84)"><rect class="s" x="-31" y="-21" width="23" height="42" rx="4.5"/>
+<line class="s d" x1="-23" y1="-16" x2="-16" y2="-16"/>
+<line class="s d" x1="-23" y1="16" x2="-16" y2="16"/>
+<circle class="f r2" cx="-19.5" cy="0" r="2.2"/>
+<path class="s d" d="M-8,0 L23,-26"/>
+<path class="s d" d="M-8,0 L34,-8"/>
+<path class="s d" d="M-8,0 L34,12"/>
+<path class="s d" d="M-8,0 L22,29"/>
+<path class="pl pl0" d="M-8,0 L23,-26" pathLength="100"/>
+<path class="pl pl1" d="M-8,0 L34,-8" pathLength="100"/>
+<path class="pl pl2" d="M-8,0 L34,12" pathLength="100"/>
+<path class="pl pl3" d="M-8,0 L22,29" pathLength="100"/>
+<circle class="s nd" cx="23" cy="-26" r="4.2"/>
+<circle class="s nd" cx="34" cy="-8" r="4.2"/>
+<circle class="s nd" cx="34" cy="12" r="4.2"/>
+<circle class="s nd" cx="22" cy="29" r="4.2"/></g>
+<path d="M381,160 L391,150 M384,150 H391 V157" fill="none" stroke="#5e5548" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

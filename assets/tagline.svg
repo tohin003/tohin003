@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 60" role="img" aria-label="I build AI agents. And the backends they run on. And the checks that prove they did the work.">
+<title>I build AI agents. And the backends they run on. And the checks that prove they did the work.</title>
+<style>
+text{font-family:ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Menlo, Consolas, &quot;Liberation Mono&quot;, &quot;DejaVu Sans Mono&quot;, monospace;font-size:19px;font-variant-ligatures:none}
+.cur{animation:blink 1s step-end infinite}
+@keyframes blink{0%,50%{opacity:1}50.01%,100%{opacity:0}}
+.w1{animation:k1 17.555s infinite}
+@keyframes k1{0%{width:0}3.4178%{width:0;animation-timing-function:steps(18)}10.5953%{width:205.2px}20.8488%{width:205.2px;animation-timing-function:steps(18)}24.4375%{width:0}100%{width:0}}
+.w2{animation:k2 17.555s infinite}
+@keyframes k2{0%{width:0}26.7160%{width:0;animation-timing-function:steps(29)}38.2797%{width:330.6px}48.5332%{width:330.6px;animation-timing-function:steps(29)}54.3150%{width:0}100%{width:0}}
+.w3{animation:k3 17.555s infinite}
+@keyframes k3{0%{width:0}56.5936%{width:0;animation-timing-function:steps(44)}74.1384%{width:501.6px}88.9490%{width:501.6px;animation-timing-function:steps(44)}97.7214%{width:0}100%{width:0}}
+.mv{animation:kc 17.555s infinite}
+@keyframes kc{0%{transform:translateX(0)}3.4178%{transform:translateX(0);animation-timing-function:steps(18)}10.5953%{transform:translateX(205.2px)}20.8488%{transform:translateX(205.2px);animation-timing-function:steps(18)}24.4375%{transform:translateX(0)}26.7160%{transform:translateX(0);animation-timing-function:steps(29)}38.2797%{transform:translateX(330.6px)}48.5332%{transform:translateX(330.6px);animation-timing-function:steps(29)}54.3150%{transform:translateX(0)}56.5936%{transform:translateX(0);animation-timing-function:steps(44)}74.1384%{transform:translateX(501.6px)}88.9490%{transform:translateX(501.6px);animation-timing-function:steps(44)}97.7214%{transform:translateX(0)}100%{transform:translateX(0)}}
+@media (prefers-reduced-motion: reduce){.w1,.w2,.w3,.mv,.cur{animation:none}.cur{opacity:1}}
+</style>
+<defs><clipPath id="c1"><rect class="w1" x="52" y="10" width="0" height="40"/></clipPath><clipPath id="c2"><rect class="w2" x="52" y="10" width="0" height="40"/></clipPath><clipPath id="c3"><rect class="w3" x="52" y="10" width="501.6" height="40"/></clipPath></defs>
+<rect x="0.5" y="0.5" width="839" height="59" rx="9.5" fill="#0b0b0c" stroke="#2a2a2e"/>
+<path d="M24 21 L32 30 L24 39" fill="none" stroke="#f00009" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text clip-path="url(#c1)" x="52" y="36.2" fill="#eee0ba" textLength="205.2" lengthAdjust="spacing">I build AI agents.</text>
+<text clip-path="url(#c2)" x="52" y="36.2" fill="#eee0ba" textLength="330.6" lengthAdjust="spacing">And the backends they run on.</text>
+<text clip-path="url(#c3)" x="52" y="36.2" fill="#eee0ba" textLength="501.6" lengthAdjust="spacing">And the checks that prove they did the work.</text>
+<g class="mv" style="transform:translateX(501.6px)"><rect class="cur" x="53" y="15" width="10.4" height="30" fill="#f00009"/></g>
+</svg>

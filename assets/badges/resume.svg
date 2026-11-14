@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 97 36" role="img" aria-label="resume link">
+<title>resume link</title>
+<style>
+text{font-family:ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Menlo, Consolas, &quot;Liberation Mono&quot;, &quot;DejaVu Sans Mono&quot;, monospace;font-size:13px;font-variant-ligatures:none}
+.halo{transform-box:fill-box;transform-origin:center;animation:pulse 2.4s ease-in-out infinite}
+@keyframes pulse{0%,100%{transform:scale(1);opacity:.55}50%{transform:scale(2.3);opacity:0}}
+@media (prefers-reduced-motion: reduce){.halo{animation:none;opacity:0}}
+</style>
+<rect x="0.5" y="0.5" width="96" height="35" rx="9.5" fill="#0b0b0c" stroke="#2a2a2e"/>
+<g transform="translate(14 11)" fill="none" stroke="#98846b" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M2.8 1.2 H8.6 L11.6 4.2 V12.8 H2.8 Z M8.6 1.2 V4.2 H11.6 M5 7.4 H9.4 M5 10 H9.4"/></g>
+<text x="36" y="22.5" fill="#eee0ba" textLength="46.8" lengthAdjust="spacing">resume</text>
+
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 190" role="img" aria-label="Truthstone: A local, deterministic reliability guard for coding agents.">
+<title>Truthstone: A local, deterministic reliability guard for coding agents.</title>
+<defs></defs>
+<style>
+text{font-family:ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace;font-variant-ligatures:none}
+.s{fill:none;stroke:#eee0ba;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.d{stroke:#5e5548}.d2{stroke:#98846b}.tn{stroke:#98846b}.r{stroke:#f00009}
+.f{fill:#eee0ba;stroke:none}.f.r2{fill:#f00009}
+.nd{fill:#151517}
+.ix{font-size:11px;font-weight:700;fill:#ff3b44}
+.nm{font-size:22px;font-weight:700;fill:#eee0ba}
+.tg{font-size:12.5px;fill:#98846b}
+.chip{fill:none;stroke:#2a2a2e;stroke-width:1}
+.ct{font-size:10.5px;fill:#98846b;text-anchor:middle}
+.ck{stroke-dasharray:44;stroke-dashoffset:0;animation:draw 4.4s ease-in-out infinite;animation-delay:-2.4s}
+@keyframes draw{0%{stroke-dashoffset:44;opacity:1}30%{stroke-dashoffset:0;opacity:1}82%{stroke-dashoffset:0;opacity:1}94%{stroke-dashoffset:0;opacity:0}100%{stroke-dashoffset:44;opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none !important}}
+</style>
+<rect x=".5" y=".5" width="411" height="189" rx="13.5" fill="#0b0b0c" stroke="#2a2a2e"/>
+<text class="ix" x="22" y="34">02</text>
+<line x1="44" y1="30.5" x2="78" y2="30.5" stroke="#5e5548" stroke-width="1"/>
+<text class="nm" x="22" y="64">Truthstone</text>
+<text class="tg" x="22" y="89">A local, deterministic reliability</text>
+<text class="tg" x="22" y="105">guard for coding agents.</text>
+<rect class="chip" x="22.5" y="144.5" width="56" height="21" rx="11"/><text class="ct" x="50.5" y="159">Python</text>
+<rect class="chip" x="87.5" y="144.5" width="89" height="21" rx="11"/><text class="ct" x="132.0" y="159">Claude Code</text>
+<rect class="chip" x="185.5" y="144.5" width="50" height="21" rx="11"/><text class="ct" x="210.5" y="159">Codex</text>
+<circle cx="354" cy="84" r="46" fill="#151517"/>
+<g transform="translate(354,84)"><path class="s" d="M-25,-5 L-11,-26 L12,-26 L26,-8 L18,21 L-14,23Z"/>
+<path class="s d" d="M-11,-26 L-2,-8 M12,-26 L-2,-8 M-25,-5 L-2,-8 M26,-8 L-2,-8 M-2,-8 L-14,23 M-2,-8 L18,21"/>
+<path class="ck" d="M-12,-1 L-3,8 L13,-13" stroke="#151517" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="s r ck" d="M-12,-1 L-3,8 L13,-13" stroke-width="2.2"/></g>
+<path d="M381,160 L391,150 M384,150 H391 V157" fill="none" stroke="#5e5548" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

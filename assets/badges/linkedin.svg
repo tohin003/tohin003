@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 113 36" role="img" aria-label="linkedin link">
+<title>linkedin link</title>
+<style>
+text{font-family:ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Menlo, Consolas, &quot;Liberation Mono&quot;, &quot;DejaVu Sans Mono&quot;, monospace;font-size:13px;font-variant-ligatures:none}
+.halo{transform-box:fill-box;transform-origin:center;animation:pulse 2.4s ease-in-out infinite}
+@keyframes pulse{0%,100%{transform:scale(1);opacity:.55}50%{transform:scale(2.3);opacity:0}}
+@media (prefers-reduced-motion: reduce){.halo{animation:none;opacity:0}}
+</style>
+<rect x="0.5" y="0.5" width="112" height="35" rx="9.5" fill="#0b0b0c" stroke="#2a2a2e"/>
+<g transform="translate(14 11)" fill="none" stroke="#98846b" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="7" cy="4.6" r="2.4"/><path d="M2.2 12.6 A4.8 4.4 0 0 1 11.8 12.6"/></g>
+<text x="36" y="22.5" fill="#eee0ba" textLength="62.4" lengthAdjust="spacing">linkedin</text>
+
+</svg>

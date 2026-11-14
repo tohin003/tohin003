@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 190" role="img" aria-label="Pebble: An open-source AI agent that lives on your Mac.">
+<title>Pebble: An open-source AI agent that lives on your Mac.</title>
+<defs></defs>
+<style>
+text{font-family:ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace;font-variant-ligatures:none}
+.s{fill:none;stroke:#eee0ba;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.d{stroke:#5e5548}.d2{stroke:#98846b}.tn{stroke:#98846b}.r{stroke:#f00009}
+.f{fill:#eee0ba;stroke:none}.f.r2{fill:#f00009}
+.nd{fill:#151517}
+.ix{font-size:11px;font-weight:700;fill:#ff3b44}
+.nm{font-size:22px;font-weight:700;fill:#eee0ba}
+.tg{font-size:12.5px;fill:#98846b}
+.chip{fill:none;stroke:#2a2a2e;stroke-width:1}
+.ct{font-size:10.5px;fill:#98846b;text-anchor:middle}
+.rg{transform-box:fill-box;transform-origin:center;vector-effect:non-scaling-stroke;animation:ripple 3.6s linear infinite}
+.rg1{transform:scale(.42);opacity:.95;stroke:#f00009;animation-delay:-.6s}
+.rg2{transform:scale(.7);opacity:.55;animation-delay:-2.05s}
+.rg3{transform:scale(1);opacity:.28;animation-delay:-3.25s}
+@keyframes ripple{0%{transform:scale(.3);opacity:0}12%{opacity:.95}100%{transform:scale(1);opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none !important}}
+</style>
+<rect x=".5" y=".5" width="411" height="189" rx="13.5" fill="#0b0b0c" stroke="#2a2a2e"/>
+<text class="ix" x="22" y="34">01</text>
+<line x1="44" y1="30.5" x2="78" y2="30.5" stroke="#5e5548" stroke-width="1"/>
+<text class="nm" x="22" y="64">Pebble</text>
+<text class="tg" x="22" y="89">An open-source AI agent</text>
+<text class="tg" x="22" y="105">that lives on your Mac.</text>
+<rect class="chip" x="22.5" y="144.5" width="56" height="21" rx="11"/><text class="ct" x="50.5" y="159">Python</text>
+<rect class="chip" x="87.5" y="144.5" width="50" height="21" rx="11"/><text class="ct" x="112.5" y="159">Tauri</text>
+<rect class="chip" x="146.5" y="144.5" width="37" height="21" rx="11"/><text class="ct" x="165.0" y="159">MCP</text>
+<circle cx="354" cy="84" r="46" fill="#151517"/>
+<g transform="translate(354,84)"><ellipse class="s rg rg1" cx="0" cy="20" rx="34" ry="10"/>
+<ellipse class="s rg rg2" cx="0" cy="20" rx="34" ry="10"/>
+<ellipse class="s rg rg3" cx="0" cy="20" rx="34" ry="10"/>
+<g transform="translate(0,-6)">
+<path class="s" d="M-23,5 C-25,-6 -11,-14 4,-13 C19,-12 27,-3 23,6 C19,15 -4,17 -14,15 C-20,13 -22,10 -23,5Z"/>
+<path class="s d2" d="M-14,-3 C-10,-7 -3,-8 3,-8"/>
+</g></g>
+<path d="M381,160 L391,150 M384,150 H391 V157" fill="none" stroke="#5e5548" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

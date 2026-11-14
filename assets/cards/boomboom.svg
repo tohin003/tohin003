@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 190" role="img" aria-label="BoomBoom: A yellow music player for iPhone with a real equaliser, amplifier and Spatial mode.">
+<title>BoomBoom: A yellow music player for iPhone with a real equaliser, amplifier and Spatial mode.</title>
+<defs></defs>
+<style>
+text{font-family:ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace;font-variant-ligatures:none}
+.s{fill:none;stroke:#eee0ba;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.d{stroke:#5e5548}.d2{stroke:#98846b}.tn{stroke:#98846b}.r{stroke:#f00009}
+.f{fill:#eee0ba;stroke:none}.f.r2{fill:#f00009}
+.nd{fill:#151517}
+.ix{font-size:11px;font-weight:700;fill:#ff3b44}
+.nm{font-size:22px;font-weight:700;fill:#eee0ba}
+.tg{font-size:12.5px;fill:#98846b}
+.chip{fill:none;stroke:#2a2a2e;stroke-width:1}
+.ct{font-size:10.5px;fill:#98846b;text-anchor:middle}
+.bar{transform-box:fill-box;transform-origin:50% 100%;vector-effect:non-scaling-stroke}
+.b0{transform:scaleY(0.36);animation:bb0 1.15s ease-in-out infinite alternate}.m0{animation:mm0 1.15s ease-in-out infinite alternate}@keyframes bb0{from{transform:scaleY(0.36)}to{transform:scaleY(0.85)}}@keyframes mm0{from{transform:translateY(0)}to{transform:translateY(-24.5px)}}
+.b1{transform:scaleY(0.64);animation:bb1 0.85s ease-in-out infinite alternate}.m1{animation:mm1 0.85s ease-in-out infinite alternate}@keyframes bb1{from{transform:scaleY(0.64)}to{transform:scaleY(0.28)}}@keyframes mm1{from{transform:translateY(0)}to{transform:translateY(18.0px)}}
+.b2{transform:scaleY(0.92);animation:bb2 1.45s ease-in-out infinite alternate}.m2{animation:mm2 1.45s ease-in-out infinite alternate}@keyframes bb2{from{transform:scaleY(0.92)}to{transform:scaleY(0.42)}}@keyframes mm2{from{transform:translateY(0)}to{transform:translateY(25.0px)}}
+.b3{transform:scaleY(0.5);animation:bb3 0.95s ease-in-out infinite alternate}.m3{animation:mm3 0.95s ease-in-out infinite alternate}@keyframes bb3{from{transform:scaleY(0.5)}to{transform:scaleY(0.96)}}@keyframes mm3{from{transform:translateY(0)}to{transform:translateY(-23.0px)}}
+.b4{transform:scaleY(0.78);animation:bb4 1.3s ease-in-out infinite alternate}.m4{animation:mm4 1.3s ease-in-out infinite alternate}@keyframes bb4{from{transform:scaleY(0.78)}to{transform:scaleY(0.34)}}@keyframes mm4{from{transform:translateY(0)}to{transform:translateY(22.0px)}}
+.b5{transform:scaleY(0.4);animation:bb5 0.8s ease-in-out infinite alternate}.m5{animation:mm5 0.8s ease-in-out infinite alternate}@keyframes bb5{from{transform:scaleY(0.4)}to{transform:scaleY(0.88)}}@keyframes mm5{from{transform:translateY(0)}to{transform:translateY(-24.0px)}}
+.b6{transform:scaleY(0.58);animation:bb6 1.05s ease-in-out infinite alternate}.m6{animation:mm6 1.05s ease-in-out infinite alternate}@keyframes bb6{from{transform:scaleY(0.58)}to{transform:scaleY(0.26)}}@keyframes mm6{from{transform:translateY(0)}to{transform:translateY(16.0px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none !important}}
+</style>
+<rect x=".5" y=".5" width="411" height="189" rx="13.5" fill="#0b0b0c" stroke="#2a2a2e"/>
+<text class="ix" x="22" y="34">04</text>
+<line x1="44" y1="30.5" x2="78" y2="30.5" stroke="#5e5548" stroke-width="1"/>
+<text class="nm" x="22" y="64">BoomBoom</text>
+<text class="tg" x="22" y="89">A yellow music player for</text>
+<text class="tg" x="22" y="105">iPhone with a real equaliser,</text>
+<text class="tg" x="22" y="121">amplifier and Spatial mode.</text>
+<rect class="chip" x="22.5" y="144.5" width="50" height="21" rx="11"/><text class="ct" x="47.5" y="159">Swift</text>
+<rect class="chip" x="81.5" y="144.5" width="37" height="21" rx="11"/><text class="ct" x="100.0" y="159">iOS</text>
+<rect class="chip" x="127.5" y="144.5" width="37" height="21" rx="11"/><text class="ct" x="146.0" y="159">DSP</text>
+<circle cx="354" cy="84" r="46" fill="#151517"/>
+<g transform="translate(354,84)"><line class="s d" x1="-36" y1="31" x2="36" y2="31"/>
+<rect class="s bar b0" x="-33.0" y="-23" width="6" height="50"/>
+<line class="s m0 tn" x1="-33.0" y1="4.0" x2="-27.0" y2="4.0"/>
+<rect class="s bar b1" x="-23.0" y="-23" width="6" height="50"/>
+<line class="s m1 tn" x1="-23.0" y1="-10.0" x2="-17.0" y2="-10.0"/>
+<rect class="s bar b2" x="-13.0" y="-23" width="6" height="50"/>
+<line class="s m2 r" x1="-13.0" y1="-24.0" x2="-7.0" y2="-24.0"/>
+<rect class="s bar b3" x="-3.0" y="-23" width="6" height="50"/>
+<line class="s m3 tn" x1="-3.0" y1="-3.0" x2="3.0" y2="-3.0"/>
+<rect class="s bar b4" x="7.0" y="-23" width="6" height="50"/>
+<line class="s m4 tn" x1="7.0" y1="-17.0" x2="13.0" y2="-17.0"/>
+<rect class="s bar b5" x="17.0" y="-23" width="6" height="50"/>
+<line class="s m5 tn" x1="17.0" y1="2.0" x2="23.0" y2="2.0"/>
+<rect class="s bar b6" x="27.0" y="-23" width="6" height="50"/>
+<line class="s m6 tn" x1="27.0" y1="-7.0" x2="33.0" y2="-7.0"/></g>
+<path d="M381,160 L391,150 M384,150 H391 V157" fill="none" stroke="#5e5548" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
