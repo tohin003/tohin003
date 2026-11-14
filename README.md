@@ -36,7 +36,7 @@ Right now I design and ship the agentic AI microservice behind [O3 Origin](https
 <img src="./assets/headers/projects.svg" width="100%" alt="Projects">
 
 <p align="center">
-  <a href="https://github.com/tohin003/Pebble"><img src="./assets/cards/pebble.svg" width="49%" alt="Pebble: an open-source AI agent that lives on your Mac."></a>
+  <a href="https://github.com/tohin003/Pebble"><img src="./assets/cards/pebble.svg" width="49%" alt="Pebble: an open-source agent harness for your Mac that beats Claude Code and Codex on a sealed benchmark."></a>
   <a href="https://github.com/tohin003/Truthstone"><img src="./assets/cards/truthstone.svg" width="49%" alt="Truthstone: a local, deterministic reliability guard for coding agents."></a>
   <a href="https://github.com/tohin003/AgentGuard"><img src="./assets/cards/agentguard.svg" width="49%" alt="AgentGuard: a reliability layer for AI coding agents."></a>
   <a href="https://github.com/tohin003/BoomBoom"><img src="./assets/cards/boomboom.svg" width="49%" alt="BoomBoom: a yellow music player for iPhone and Android with a real equaliser and amplifier."></a>
@@ -44,8 +44,8 @@ Right now I design and ship the agentic AI microservice behind [O3 Origin](https
   <a href="https://github.com/tohin003/ginie-releases"><img src="./assets/cards/ginie.svg" width="49%" alt="Ginie: a compact, private AI workspace for macOS and Windows."></a>
 </p>
 
-**01 · [Pebble](https://github.com/tohin003/Pebble)**: an open-source AI agent that lives on your Mac.<br>
-A desktop companion that chats, works in your projects and asks before it edits, with the model you choose. On a held-out set it did 235 of 255 tasks correctly (92.2%), against 213 (83.5%) for Claude Code on the same model.<br>
+**01 · [Pebble](https://github.com/tohin003/Pebble)**: an open-source agent harness that beats frontier ones like Claude Code and Codex on a sealed benchmark.<br>
+A desktop agent that lives on your Mac: it chats, works in your projects and asks before it edits, with the model you choose. On a sealed held-out set (255 runs per product, same model on both sides) it did 92.2% of tasks correctly against 83.5% for Claude Code, and 95.3% against 90.6% for Codex, with fewer false "done"s and a lower cost per task.<br>
 <sub>`Python` `Rust (Tauri 2)` `Vue 3` `TypeScript` `llama.cpp` · [Website](https://pebble-landing-page-eta.vercel.app) · [Latest release](https://github.com/tohin003/Pebble/releases/latest)</sub>
 
 **02 · [Truthstone](https://github.com/tohin003/Truthstone)**: plugins that check a coding agent's claim of "done".<br>

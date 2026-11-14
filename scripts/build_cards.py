@@ -15,7 +15,7 @@ from pathlib import Path
 CARDS = [
     dict(slug="pebble", index="01", name="Pebble",
          url="https://github.com/tohin003/Pebble",
-         tagline="An open-source AI agent that lives on your Mac.",
+         tagline="An open-source agent harness for your Mac that beats Claude Code and Codex on a sealed benchmark.",
          chips=["Python", "Tauri", "MCP"]),
     dict(slug="truthstone", index="02", name="Truthstone",
          url="https://github.com/tohin003/Truthstone",
