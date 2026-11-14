@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 190" role="img" aria-label="BoomBoom: A yellow music player for iPhone with a real equaliser, amplifier and Spatial mode.">
-<title>BoomBoom: A yellow music player for iPhone with a real equaliser, amplifier and Spatial mode.</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 190" role="img" aria-label="BoomBoom: A yellow music player for iPhone and Android with a real equaliser and amplifier.">
+<title>BoomBoom: A yellow music player for iPhone and Android with a real equaliser and amplifier.</title>
 <defs></defs>
 <style>
 text{font-family:ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace;font-variant-ligatures:none}
@@ -27,11 +27,11 @@ text{font-family:ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Libe
 <line x1="44" y1="30.5" x2="78" y2="30.5" stroke="#5e5548" stroke-width="1"/>
 <text class="nm" x="22" y="64">BoomBoom</text>
 <text class="tg" x="22" y="89">A yellow music player for</text>
-<text class="tg" x="22" y="105">iPhone with a real equaliser,</text>
-<text class="tg" x="22" y="121">amplifier and Spatial mode.</text>
+<text class="tg" x="22" y="105">iPhone and Android with a</text>
+<text class="tg" x="22" y="121">real equaliser and amplifier.</text>
 <rect class="chip" x="22.5" y="144.5" width="50" height="21" rx="11"/><text class="ct" x="47.5" y="159">Swift</text>
-<rect class="chip" x="81.5" y="144.5" width="37" height="21" rx="11"/><text class="ct" x="100.0" y="159">iOS</text>
-<rect class="chip" x="127.5" y="144.5" width="37" height="21" rx="11"/><text class="ct" x="146.0" y="159">DSP</text>
+<rect class="chip" x="81.5" y="144.5" width="56" height="21" rx="11"/><text class="ct" x="109.5" y="159">Kotlin</text>
+<rect class="chip" x="146.5" y="144.5" width="43" height="21" rx="11"/><text class="ct" x="168.0" y="159">Rust</text>
 <circle cx="354" cy="84" r="46" fill="#151517"/>
 <g transform="translate(354,84)"><line class="s d" x1="-36" y1="31" x2="36" y2="31"/>
 <rect class="s bar b0" x="-33.0" y="-23" width="6" height="50"/>

@@ -39,7 +39,7 @@ Right now I design and ship the agentic AI microservice behind [O3 Origin](https
   <a href="https://github.com/tohin003/Pebble"><img src="./assets/cards/pebble.svg" width="49%" alt="Pebble: an open-source AI agent that lives on your Mac."></a>
   <a href="https://github.com/tohin003/Truthstone"><img src="./assets/cards/truthstone.svg" width="49%" alt="Truthstone: a local, deterministic reliability guard for coding agents."></a>
   <a href="https://github.com/tohin003/AgentGuard"><img src="./assets/cards/agentguard.svg" width="49%" alt="AgentGuard: a reliability layer for AI coding agents."></a>
-  <a href="https://github.com/tohin003/BoomBoom"><img src="./assets/cards/boomboom.svg" width="49%" alt="BoomBoom: a yellow music player for iPhone with a real equaliser."></a>
+  <a href="https://github.com/tohin003/BoomBoom"><img src="./assets/cards/boomboom.svg" width="49%" alt="BoomBoom: a yellow music player for iPhone and Android with a real equaliser and amplifier."></a>
   <a href="https://github.com/tohin003/agent-hub"><img src="./assets/cards/agent-hub.svg" width="49%" alt="Agent Hub: every AI coding agent on your Mac, in your pocket."></a>
   <a href="https://github.com/tohin003/ginie-releases"><img src="./assets/cards/ginie.svg" width="49%" alt="Ginie: a compact, private AI workspace for macOS and Windows."></a>
 </p>
@@ -56,9 +56,9 @@ AgentGuard, renamed and packaged for Claude Code and Codex: hooks that check an 
 Where Truthstone started: the source-install build for Claude Code. It checks an agent's claims against the repository, watches scope and refuses a "done" that no test backed. In its mutation benchmark it flagged 392 of 400 seeded fake references, with no false positives.<br>
 <sub>`Python` `FastAPI` `AST` `SQLite` `QLoRA` · [Fine-tuned model](https://huggingface.co/tohin03/qwen35-4b-personal-coder)</sub>
 
-**04 · [BoomBoom](https://github.com/tohin003/BoomBoom)**: a yellow music player for iPhone with a real equaliser.<br>
-A native iPhone player with a ten-band equaliser, an amplifier and Spatial mode, playing YouTube Music through a hidden browser tab. A personal project, not affiliated with YouTube or Google, installed from Xcode with a free Apple ID.<br>
-<sub>`Swift` `SwiftUI` `C` `WKWebView`</sub>
+**04 · [BoomBoom](https://github.com/tohin003/BoomBoom)**: a yellow music player for iPhone and Android with a real equaliser.<br>
+A native player for iPhone and Android with a ten-band equaliser and an amplifier, playing YouTube Music through a hidden browser tab. Spatial mode on iPhone. A personal project, not affiliated with YouTube or Google: the iPhone app installs from Xcode, the Android app from an APK.<br>
+<sub>`Swift` `SwiftUI` `C` `Kotlin` `Rust` · [Android APK](https://github.com/tohin003/BoomBoom/releases)</sub>
 
 **05 · [Agent Hub](https://github.com/tohin003/agent-hub)**: every AI coding agent on your Mac, in your pocket.<br>
 Run Claude Code, Codex, OpenCode, Gemini CLI and Antigravity on your Mac, then watch, answer and steer them from your iPhone over Tailscale, with a live view of the Mac's screen as hardware video.<br>

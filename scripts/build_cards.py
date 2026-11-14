@@ -27,8 +27,8 @@ CARDS = [
          chips=["Python", "FastAPI", "QLoRA"]),
     dict(slug="boomboom", index="04", name="BoomBoom",
          url="https://github.com/tohin003/BoomBoom",
-         tagline="A yellow music player for iPhone with a real equaliser, amplifier and Spatial mode.",
-         chips=["Swift", "iOS", "DSP"]),   # README: native iPhone app; "sound processor (BoomDSP)"
+         tagline="A yellow music player for iPhone and Android with a real equaliser and amplifier.",
+         chips=["Swift", "Kotlin", "Rust"]),   # iPhone app in Swift; Android app (release android-v1.0) in Kotlin with a Rust engine core
     dict(slug="agent-hub", index="05", name="Agent Hub",
          url="https://github.com/tohin003/agent-hub",
          tagline="Every AI coding agent on your Mac, in your pocket.",
